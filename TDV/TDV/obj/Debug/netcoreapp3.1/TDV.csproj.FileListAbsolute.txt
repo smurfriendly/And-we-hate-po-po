@@ -1,0 +1,165 @@
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\Audi.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\street.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.exe
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\Audi.png
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\street.jpg
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.deps.json
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.runtimeconfig.json
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.dll
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.pdb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.csproj.CopyComplete
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.dll
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.pdb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\Police.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\Police.png
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\Font.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\menuB.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\startButton.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\menuB.jpg
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\startButton.png
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\1.ogg
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\1.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\2.ogg
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\2.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\3.ogg
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\3.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\4.ogg
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\4.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\1.mp3
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\2.mp3
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\3.mp3
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\4.mp3
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\quitButton.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\Escola\Técnicas de Desenvolvimento de Videojogos\TDV\TDV\bin\Debug\netcoreapp3.1\Content\resumeButton.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\Font.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\1.ogg
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\1.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\2.ogg
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\2.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\3.ogg
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\3.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\4.ogg
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\4.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\Audi.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\menuB.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\Police.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\quitButton.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\resumeButton.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\startButton.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\street.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.exe
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\1.mp3
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\2.mp3
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\3.mp3
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\4.mp3
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\Audi.png
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\menuB.jpg
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\Police.png
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\startButton.png
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\street.jpg
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.deps.json
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.runtimeconfig.json
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.runtimeconfig.dev.json
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.dll
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.pdb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\digas\Desktop\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.csproj.AssemblyReference.cache
+C:\Users\digas\Desktop\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digas\Desktop\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.AssemblyInfoInputs.cache
+C:\Users\digas\Desktop\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.AssemblyInfo.cs
+C:\Users\digas\Desktop\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.csproj.CoreCompileInputs.cache
+C:\Users\digas\Desktop\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.csproj.CopyComplete
+C:\Users\digas\Desktop\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.dll
+C:\Users\digas\Desktop\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.pdb
+C:\Users\digas\Desktop\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.genruntimeconfig.cache
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\score.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\score.spritefont
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\Font.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\1.ogg
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\1.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\2.ogg
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\2.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\3.ogg
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\3.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\4.ogg
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\4.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\Audi.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\menuB.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\Police.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\quitButton.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\resumeButton.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\score.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\startButton.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\street.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.exe
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\1.mp3
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\2.mp3
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\3.mp3
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\4.mp3
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\Audi.png
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\menuB.jpg
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\Police.png
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\score.spritefont
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\startButton.png
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\street.jpg
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.deps.json
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.runtimeconfig.json
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.dll
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\TDV.pdb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.csproj.CopyComplete
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.dll
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.pdb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\obj\Debug\netcoreapp3.1\TDV.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\GameOver.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\GameOver.jpg
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\quitButton.png
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\resumeButton.png
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\resetButton.xnb
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\IPCA.mp4
+C:\Users\maria\OneDrive\Ambiente de Trabalho\TDV\TDV\bin\Debug\netcoreapp3.1\Content\IPCA.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\IPCA.mp4
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\IPCA.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\resetButton.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\GameOver.xnb
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\GameOver.jpg
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\quitButton.png
+C:\Users\digas\Desktop\TDV\TDV\bin\Debug\netcoreapp3.1\Content\resumeButton.png

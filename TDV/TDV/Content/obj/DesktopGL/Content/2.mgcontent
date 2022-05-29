@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/digas/Desktop/TDV/TDV/Content/2.mp3</SourceFile>
+  <SourceTime>2022-05-28T23:21:24+01:00</SourceTime>
+  <DestFile>C:/Users/digas/Desktop/TDV/TDV/Content/bin/DesktopGL/Content/2.xnb</DestFile>
+  <DestTime>2022-05-29T22:41:11.1371663+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T17:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/digas/Desktop/TDV/TDV/Content/bin/DesktopGL/Content/2.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

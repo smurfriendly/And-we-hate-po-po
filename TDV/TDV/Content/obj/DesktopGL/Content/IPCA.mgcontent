@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/maria/OneDrive/Ambiente de Trabalho/TDV/TDV/Content/IPCA.mp4</SourceFile>
+  <SourceTime>2022-05-29T21:36:23.2927966+01:00</SourceTime>
+  <DestFile>C:/Users/maria/OneDrive/Ambiente de Trabalho/TDV/TDV/Content/bin/DesktopGL/Content/IPCA.xnb</DestFile>
+  <DestTime>2022-05-29T21:37:01.9600712+01:00</DestTime>
+  <Importer>H264Importer</Importer>
+  <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
+  <Processor>VideoProcessor</Processor>
+  <ProcessorTime>2020-08-10T17:17:54+01:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/maria/OneDrive/Ambiente de Trabalho/TDV/TDV/Content/bin/DesktopGL/Content/IPCA.mp4</string>
+  </BuildOutput>
+</PipelineBuildEvent>
