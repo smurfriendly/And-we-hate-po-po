@@ -15,7 +15,7 @@ então acabamos por não colocar. Na criação das colisões, optamos por utiliz
 pois foi a que melhor se adaptou ao nosso trabalho. 
 Para dar um flair ao jogo tentamos sem sucesso colocar 2 videos como introdução ao jogo, um com o simbolo do ipca e outro com o da nossa "empresa" :Rito Gomes.
 
-Curiosidade: Todas as musicas que escolhemos colocar no jogo são do need for speed underground 1.
+Curiosidade: Todas as musicas que escolhemos colocar no jogo são do need for speed underground 1, e dependendo da musica que é reproduzida, spawnam mais inimigos.
 
 
 
